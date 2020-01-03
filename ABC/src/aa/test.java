@@ -6,5 +6,9 @@ public class test {
 		System.out.println(a);
 		System.out.println("/*//*/*/*/*/*/*/*/*/*/*");
 		System.out.println("/*//*/*/*/*/*/*/*/*/*/*");
+		System.out.println("/*//*/*/*/*/*/*/*/*/*/*");
+		System.out.println("/*//*/*/*/*/*/*/*/*/*/*");
+		System.out.println("/*//*/*/*/*/*/*/*/*/*/*");
+		System.out.println("/*//*/*/*/*/*/*/*/*/*/*");
 	}
 }
